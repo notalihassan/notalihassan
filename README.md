@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ali Hassan 💻</h1>
+<h1 align="center">Ali Hassan 💻</h1>
 <h3 align="center">A passionate front-end developer from Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=notalihassan&label=Profile%20views&color=0e75b6&style=flat" alt="notalihassan" /> </p>
@@ -9,9 +9,9 @@
 
 - 👯 I’m looking to collaborate on **Frontend projects**
 
-- 👨‍💻 All of my projects are available at [https://alihassan-portfolio.vercel.app/](https://alihassan-portfolio.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://alihassan-portfolio.vercel.app/](My Portfolio)
 
-- 💬 Ask me about **ReactJs,JS and C++**
+- 💬 Ask me about **React Js,JS and C++**
 
 - 📫 How to reach me **alihassan92199@gmail.com**
 
