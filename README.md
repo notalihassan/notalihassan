@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Frontend projects**
 
-- 👨‍💻 All of my projects are available at [https://alihassan-portfolio.vercel.app/](My Portfolio)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://alihassan-portfolio.vercel.app/)
 
 - 💬 Ask me about **React Js,JS and C++**
 
