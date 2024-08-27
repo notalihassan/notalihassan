@@ -1,5 +1,5 @@
 <h1 align="center">Ali Hassan 💻</h1>
-<h3 align="center">A passionate front-end developer from Pakistan</h3>
+<h3 align="center">A passionate Computer Scientist and front-end developer from Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=notalihassan&label=Profile%20views&color=0e75b6&style=flat" alt="notalihassan" /> </p>
 
