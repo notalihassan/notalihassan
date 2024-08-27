@@ -23,6 +23,7 @@
 <a href="https://linkedin.com/in/notalihassan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="notalihassan" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/25046367" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="25046367" height="30" width="40" /></a>
 <a href="https://instagram.com/not.alihassan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="not.alihassan" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/notalihassan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="notalihassan" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
