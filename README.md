@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=notalihassan&label=Profile%20views&color=0e75b6&style=flat" alt="notalihassan" /> </p>
 
-- 🔭 I’m currently studying **Computer science**
+- 🔭 I’m currently studying **Computer Engineering**
 
 - 🌱 I’m currently learning **ReactJs and C++**
 
