@@ -1,6 +1,6 @@
 <!-- Banner Image with Animation -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Ali%Hassan&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20|%20ML%20Enthusiast%20|%20Game%20Dev&descAlignY=55&descSize=20"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Ali%Hassan&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Engineer%20|%20Tech%20Enthusiast%20|%20DevOps%20Engineer&descAlignY=55&descSize=20"/>
 </div>
 
 <!-- Dynamic Typing Animation -->
@@ -91,5 +91,5 @@
 <!-- Profile Views Counter -->
 <p align="center">
   <br>
-  <img src="https://komarev.com/ghpvc/?username=notdumbj&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="notdumbj" />
+  <img src="https://komarev.com/ghpvc/?username=notalihassan&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="notalihassan" />
 </p>
